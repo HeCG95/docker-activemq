@@ -1,0 +1,1 @@
+Here is activemq log data directory!
